@@ -1,6 +1,6 @@
 ● 要求三：SQL CRUD  
 <pre>
-1. 新增五筆資料(一筆是test，其他自行設定)
+1. 使⽤ INSERT 指令新增⼀筆資料到 member 資料表中，這筆資料的 username 和password 欄位必須是 test。接著繼續新增⾄少 4 筆隨意的資料。
 </pre>
 ![image](https://github.com/Shiuan-Chang/RSChang_week5.github.io/assets/135259951/b7521cc0-d08e-47a0-bb76-85c404d911c5)
 <pre>
